@@ -5,7 +5,7 @@
 
   <groupId>org.ajstech.it</groupId>
   <artifactId>hms-app-sm</artifactId>
-  <version>1.5-SNAPSHOT</version>
+  <version>1.5</version>
 
   <name>hms-app-sm</name>
   <!-- FIXME change it to the project's website -->
@@ -21,7 +21,7 @@
 		<connection>scm:git:https://github.com/ajstech234/hms-app-sm.git</connection>
 		<developerConnection>scm:git:https://github.com/ajstech234/hms-app-sm.git</developerConnection>
 		<url>https://github.com/ajstech234/hms-app-sm.git</url>
-		<tag>HEAD</tag>
+		<tag>hms-app-sm-1.5</tag>
 	</scm>
   
   <dependencies>
